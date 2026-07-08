@@ -1,6 +1,6 @@
 **After repository creation:**
 - [ ] Update this `README.md`. Update the Project Name, description, and all sections. Remove this checklist.
-- [ ] **Specify your license.** This template does NOT ship with a default license. Identify your project's approved license per your organization's license approval guidelines.
+- [ ] **Specify your license.** This template does NOT ship with a default license. Identify your project's approved license per your organization's license approval guidelines. 
 - [ ] **Create `LICENSE.txt`.** Replace the placeholder text in `LICENSE.txt` with the full text of your project's approved license.
 - [ ] **Update the License section** below to name your approved license and link to it.
 - [ ] Search this repo for "REPLACE-ME" and update all instances accordingly
@@ -47,4 +47,4 @@ How to contact maintainers. E.g. GitHub Issues, GitHub Discussions could be indi
 
 *\<update with your project name and license\>*
 
-*\<REPLACE-ME\>* is licensed under the *\<REPLACE-ME: license name and SPDX link\>*. See [LICENSE.txt](LICENSE.txt) for the full license text.
+*\<REPLACE-ME\>* is licensed under the *\<REPLACE-ME: license name and SPDX link (locate your license at https://spdx.org/licenses/) \>*. See [LICENSE.txt](LICENSE.txt) for the full license text.
