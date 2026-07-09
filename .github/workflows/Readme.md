@@ -3,4 +3,4 @@ This folder contains workflows that are helpful for maintaining a smooth and sec
 
 Workflows:
 1. `qcom-preflight-checks.yml` - This workflow runs several preflight checks, including copyight, email, repolinter, and security checks.  See [qualcomm/qcom-actions](https://github.com/qualcomm/qcom-actions)
-2. `stale-issues.yaml` - This workflow will periodically run every 30 days to check for stalled issues and PRs. If the workflow detects any stalled issues and/or PRs, it will automatically leave just a comment to draw attention.
+2. `stale-issues.yaml` - This workflow will run daily and mark inactive Issues and PRs as stale with a comment and a label. It's currently configured to mark PRs and Issues as stale after 30 days. PRs are then auto-closed after an additional 5 days of inactivity. Adjust this workflow as needed.
