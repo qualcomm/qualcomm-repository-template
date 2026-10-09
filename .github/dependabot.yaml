@@ -9,3 +9,4 @@ updates:
     directory: "/" # This points to .github/workflows
     schedule:
       interval: "daily"
+    cooldown-days: 3
